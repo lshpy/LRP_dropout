@@ -1,0 +1,14 @@
+# Suppressive Relevance Dropout 실험을 위한 필수 패키지
+
+torch>=2.0
+torchvision
+matplotlib
+numpy
+
+# 선택: 시각화 및 해석 보조 도구
+captum       # (Grad-CAM, LRP 등 사용 시 추천)
+tqdm         # 진행 표시줄
+
+# Jupyter 사용 시 필요
+jupyterlab
+notebook
