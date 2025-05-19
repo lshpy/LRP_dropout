@@ -67,4 +67,4 @@ python run_all_experiments.py
 
 ---
 
-📬 문의: [작성자 GitHub 주소 or Email]
+📬 문의: leesh4660@gmail.com 
